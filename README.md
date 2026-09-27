@@ -50,9 +50,9 @@ Tambahkan struktur dasar dokumen HTML5 berikut ke dalam file index.html:
 Penjelasan: Deklarasi <!DOCTYPE html> memberitahu browser bahwa dokumen ini menggunakan standar HTML5. Elemen <head> memuat informasi meta seperti <title> (judul tab browser), sedangkan elemen <body> berisi konten yang akan dirender ke layar pengguna.
 
 Screenshot Hasil Persiapan Awal:
-<img width="1576" height="792" alt="Hasil 1" src="https://github.com/user-attachments/assets/611724d4-bdaf-400e-8ba2-85b1337d35fa" />
-[<img width="1401" height="864" alt="hasil 3" src="https://github.com/user-attachments/assets/fdecef0f-669c-4b4f-ba67-dc7eae9bc3a2" />
-screenshot tampilan struktur dasar HTML pada browser]
+<img width="1920" height="1080" alt="Screenshot 2026-09-26 210457" src="https://github.com/user-attachments/assets/a7a0e300-07dc-4e22-a92e-4ca757c92e9e" />
+
+[screenshot tampilan struktur dasar HTML pada browser]
 
 Langkah 1: Membuat Paragraf
 
@@ -73,7 +73,8 @@ Browser akan menampilkan hasil interpretasi dari dokumen HTML.
 
 
 Screenshot Hasil Langkah 1:
-<img width="1413" height="860" alt="Hasil 2 " src="https://github.com/user-attachments/assets/9298235a-472c-4ead-a1d4-0177b6bf6e90" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-26 210657" src="https://github.com/user-attachments/assets/6378fa61-5c92-4626-a9fc-6bb2a9d96d46" />
+
 [screenshot tampilan paragraf yang memiliki jarak antar paragraf di browser]
 
 Langkah 2: Menambahkan Judul (Heading)
@@ -89,7 +90,8 @@ Kode yang ditambahkan:
 
 
 Screenshot Hasil Langkah 2:
-<img width="1401" height="864" alt="hasil 3" src="https://github.com/user-attachments/assets/21b345b8-b4b1-4d38-b339-5585d987f690" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-26 210815" src="https://github.com/user-attachments/assets/a927e60f-bc3e-407c-bbaa-a7553a38a4e0" />
+
 [screenshot tampilan heading h1 dan h2 di atas paragraf]
 
 Langkah 3: Memformat Teks
@@ -115,8 +117,8 @@ sebagai x<sup>2</sup>.
 (Catatan: Anda juga bisa bereksperimen dengan tag seperti <em>, <mark>, <small>, <del>, dan <ins>).
 
 Screenshot Hasil Langkah 3:
-<img width="1474" height="792" alt="hasil 4" src="https://github.com/user-attachments/assets/e71b10c4-208b-4930-9993-c93c0349b20b" />
-<img width="1138" height="631" alt="hasil 5" src="https://github.com/user-attachments/assets/4549a6b7-060d-46b9-8e2e-904beb789792" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-26 211012" src="https://github.com/user-attachments/assets/a787b78c-d425-4aa6-9934-2cb4a95cba0e" />
+
 
 [screenshot hasil format teks tebal, miring, subscript, dan superscript]
 
@@ -141,7 +143,8 @@ Kode yang ditambahkan:
 
 
 Screenshot Hasil Langkah 4:
-<img width="1583" height="845" alt="hasil 6" src="https://github.com/user-attachments/assets/b76faef2-2c5d-45bd-adca-ee8061eddd8b" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-26 212924" src="https://github.com/user-attachments/assets/d0fe384c-4a33-4d58-975f-3d62a0260987" />
+
 [screenshot gambar profil yang berhasil dimuat di browser]
 
 Langkah 5: Mengatur Ukuran Gambar
@@ -154,7 +157,8 @@ Kode yang ditambahkan:
 
 
 Screenshot Hasil Langkah 5:
-<img width="1583" height="845" alt="hasil 6" src="https://github.com/user-attachments/assets/38749fd0-6548-430b-bc80-f2403cb1f5bd" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-26 223838" src="https://github.com/user-attachments/assets/837b703b-dc94-49d4-9da7-833777ebbf0c" />
+
 [screenshot gambar setelah diatur ukurannya menjadi lebar 200px]
 
 Langkah 6: Menambahkan Hyperlink
@@ -175,9 +179,6 @@ Kode yang ditambahkan:
 
 
 Screenshot Hasil Langkah 6:
-<img width="1573" height="824" alt="hasil 7 3" src="https://github.com/user-attachments/assets/71503f97-c78f-4d49-9fec-ca8b5a8ef254" />
-<img width="1551" height="802" alt="hasil 7 2" src="https://github.com/user-attachments/assets/d9b4d5ee-af49-413b-a329-99344e76d694" />
-<img width="1544" height="819" alt="hasil 7 1" src="https://github.com/user-attachments/assets/6a589aa8-5743-4097-94f3-cfa86506446c" />
 
 [screenshot tautan navigasi yang aktif di browser]
 
@@ -204,6 +205,7 @@ Kode yang ditambahkan:
 
 
 Screenshot Hasil Langkah 7:
+<img width="1920" height="1080" alt="Screenshot 2026-09-26 224359" src="https://github.com/user-attachments/assets/0b04e53b-2321-4c69-aa9e-272df86d19ed" />
 
 [screenshot tampilan list keahlian dan urutan belajar di browser]
 
@@ -223,7 +225,8 @@ Kode yang ditambahkan:
 
 
 Screenshot Hasil Langkah 8:
-<img width="1532" height="843" alt="hasil 9" src="https://github.com/user-attachments/assets/10c77682-9196-4f77-bf3d-e73488820acf" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-26 224221" src="https://github.com/user-attachments/assets/fce6b999-c3fb-4aa0-a334-bf4c93b9570d" />
+
 [screenshot kode sumber (source code) yang menunjukkan penulisan komentar]
 
 Langkah 9: Menggabungkan Semua Elemen (Profil Mahasiswa)
@@ -270,7 +273,8 @@ Kode Lengkap index.html:
 
 
 Screenshot Hasil Akhir (Langkah 9):
-<img width="1578" height="798" alt="hasil 11" src="https://github.com/user-attachments/assets/404f6748-f6b2-40ad-83bc-33d523af195c" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-26 224734" src="https://github.com/user-attachments/assets/7688f724-342e-4111-9d09-c98278013d46" />
+
 [screenshot halaman penuh Profil Mahasiswa yang telah digabungkan]
 
 Kesimpulan
